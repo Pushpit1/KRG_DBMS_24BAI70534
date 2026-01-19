@@ -1,3 +1,4 @@
-24BAI70075_Mehak_KRG1_BAI_DBMS
+24BAI70534_Pushpit_KRG1_BAI_DBMS
 
 DBMS Lab Experiments
+
